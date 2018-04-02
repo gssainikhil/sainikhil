@@ -1,0 +1,33 @@
+body{
+  background:#476534;
+}
+.flex-parent{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.profile{
+  width: 30%;
+  height: auto;
+  background: #ff34ff;
+  margin: 2%;
+  padding:1%;
+  border :2px solid :brown;
+}
+
+.content{
+  width: 70%;
+  height: auto;
+  background: #eeabde;
+  margin: 2%;
+  padding:1%;
+  border:2px solid brown;
+}
+h1,h2{
+  text-align:center;
+}
+img{
+  height:200px;
+  width:370px;
+  border-radius:50%
+}
